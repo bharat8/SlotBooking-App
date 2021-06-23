@@ -1,3 +1,5 @@
+# About App
+
 SlotBooking is an app that lets you book slots by entering your details.
 
 # Steps to install
